@@ -12,10 +12,10 @@
 // }
 
 // Menghentikan loop dengan program
-var nilaiAwal = 1;
-while (nilaiAwal <= 5) {
+var noAngkot = 1;
+while (noAngkot <= 5) {
   console.log("Hello world");
   // nilaiAwal = nilaiAwal + 1;
   // atau simpelnya
-  nilaiAwal++;
+  noAngkot++;
 }
